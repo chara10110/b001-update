@@ -2,8 +2,8 @@
     "client": {
         "version": "1.1",
         "downloadUrl": "https://github.com/chara10110/b001-update/releases/download/v1.1/client.zip",
-        "androidApkUrl": "",
-        "iosStoreUrl": "",
+        "androidApkUrl": "none",
+        "iosStoreUrl": "none",
         "releaseNotes": "初始版本"
     },
     "server": {
